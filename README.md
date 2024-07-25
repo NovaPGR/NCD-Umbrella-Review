@@ -20,11 +20,11 @@ All 3 data extraction forms are based off the same format. The data extraction t
 Each category has any accompanying data tables included in it's respective tab marked table (i.e. data tables for papers in the Misc extraction sheet will be included within `Misc tables`). These are non-uniform and formatted in the most appropriate way for each table. Each table is titled with the Zotero citation key in order to denote which paper it belongs to. 
 
 ## Forest Plots
-- Five forest plots are included in the repository these are named based on the are which they look at.
-- bmd is Bone mineral density
-- cve is Cerebrovascular events 
-- kg is Weight
-- Periopvte is Perioperative VTEs
-- substance is Substance use 
-- vteprev is VTE prevelance 
+Five forest plots are included in the repository these are named based on the are which they look at.
+- `bmd` is Bone mineral density
+- `cve` is Cerebrovascular events 
+- `kg` is Weight
+- `periopvte` is Perioperative VTEs
+- `substance` is Substance use 
+- `vteprev` is VTE prevelance 
 
